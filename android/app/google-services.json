@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444478563865",
+    "project_id": "data-siswa-82832",
+    "storage_bucket": "data-siswa-82832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444478563865:android:6606611fae4088ae1f2c88",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_pendataan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiwo6NgrIQmbJYdMCLorB18kU1DIHjIMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444478563865:android:7793f4a1f9635ef61f2c88",
+        "android_client_info": {
+          "package_name": "com.example.crud_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiwo6NgrIQmbJYdMCLorB18kU1DIHjIMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
